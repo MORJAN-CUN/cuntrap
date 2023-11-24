@@ -61,3 +61,7 @@
   --red-cun: #ce0058;
   --accordion-btn-focus-box-shadow: 0 0 0 0.08rem var(--dark-green-cun);
 }
+.contenedor{
+  background-color: var(--blue-cun);
+  color: var(--light-green-cun);
+}
